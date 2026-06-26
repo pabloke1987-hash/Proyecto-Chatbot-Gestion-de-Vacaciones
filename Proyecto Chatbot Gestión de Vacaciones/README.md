@@ -95,7 +95,7 @@ python Chatbot Gestión de Vacaciones.py
 Agregar aquí el enlace al repositorio público de GitHub:
 
 ```text
-[PEGAR LINK DEL REPOSITORIO AQUÍ]
+https://github.com/pabloke1987-hash/Proyecto-Chatbot-Gestion-de-Vacaciones
 ```
 
 ## Autor
