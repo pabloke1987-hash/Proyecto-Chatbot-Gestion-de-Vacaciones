@@ -26,10 +26,10 @@ Proyecto Chatbot Gestión de vacaciones/
 ├── empleados_vacaciones.csv
 ├── README.md
 └── Diagramas BPMN 2.0/
-    ├── BPMN_01_AS_IS_Gestion_Manual.png
-    ├── BPMN_02_TO_BE_Chatbot_CSV.png
-    ├── BPMN_03_Consultar_Dias_CSV.png
-    ├── BPMN_04_Solicitar_Vacaciones_CSV.png
+    ├── BPMN 2.0 Proceso AS-IS.png
+    ├── BPMN 2.0 Proceso TO-BE.png
+    ├── BPMN 2.0 Consultar Dias.png
+    ├── BPMN 2.0 Solicitar Vacaciones.png
 ```
 
 ## Persistencia de datos
